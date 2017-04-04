@@ -1,4 +1,5 @@
-##How to run tests: Go into the folder of each function you are testing and run "jasmine-node ."
+## How to run tests: Go into the folder of each function you are testing and run "jasmine-node ."
+
 
 # Core Vanilla JavaScript - Team Practice - 1
 
@@ -41,6 +42,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/largest-series-product`
 - [ ] Solve `/exercism/robot-simulator`
 - [x] Solve `/exercism/rna-transcription` Kamila
+
 - [ ] Solve `/exercism/bob`
 
 
