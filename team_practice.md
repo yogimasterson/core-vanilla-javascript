@@ -13,10 +13,10 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 ### Day 1 - Exercism
 
-- [x] Solve `/exercism/hamming`
+- [ ] Solve `/exercism/hamming`
 - [ ] Solve `/exercism/diamond`
 - [ ] Solve `/exercism/bracket-push` 
-- [x] Solve `/exercism/ocr-numbers`
+- [ ] Solve `/exercism/ocr-numbers`
 - [ ] Solve `/exercism/bowling`
 
 #### Stretch
@@ -29,7 +29,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/`
 - [ ] Solve `/exercism/`
 
-- [x] Solve `/exercism/phone-number`
+- [ ] Solve `/exercism/phone-number`
 - [ ] Solve `/exercism/word-count`
 - [ ] Solve `/exercism/gigasecond`
 - [ ] Solve `/exercism/leap`
@@ -40,7 +40,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/wordy`
 - [ ] Solve `/exercism/largest-series-product`
 - [ ] Solve `/exercism/robot-simulator`
-- [x] Solve `/exercism/rna-transcription`
+- [ ] Solve `/exercism/rna-transcription`
 - [ ] Solve `/exercism/bob`
 
 
@@ -65,7 +65,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 - [ ] Solve `/exercism/luhn`
 - [ ] Solve `/exercism/pythagorean-triplet`
-- [x] Solve `/exercism/beer-song`
+- [ ] Solve `/exercism/beer-song`
 - [ ] Solve `/exercism/grade-school`
 
 
