@@ -1,4 +1,5 @@
-## This is the code to run tests: jasmine-node .
+## How to run tests: Go into the folder of each function you are testing and run "jasmine-node ."
+
 
 # Core Vanilla JavaScript - Team Practice - 1
 
@@ -15,8 +16,8 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 - [x] Solve `/exercism/hamming`
 - [ ] Solve `/exercism/diamond`
-- [ ] Solve `/exercism/bracket-push` 
-- [x] Solve `/exercism/ocr-numbers`
+- [ ] Solve `/exercism/bracket-push`
+- [x] Solve `/exercism/ocr-numbers` Kamila
 - [ ] Solve `/exercism/bowling`
 
 #### Stretch
@@ -29,7 +30,7 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/`
 - [ ] Solve `/exercism/`
 
-- [x] Solve `/exercism/phone-number`
+- [x] Solve `/exercism/phone-number` Kamila
 - [ ] Solve `/exercism/word-count`
 - [ ] Solve `/exercism/gigasecond`
 - [ ] Solve `/exercism/leap`
@@ -40,7 +41,8 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 - [ ] Solve `/exercism/wordy`
 - [ ] Solve `/exercism/largest-series-product`
 - [ ] Solve `/exercism/robot-simulator`
-- [x] Solve `/exercism/rna-transcription`
+- [x] Solve `/exercism/rna-transcription` Kamila
+
 - [ ] Solve `/exercism/bob`
 
 
